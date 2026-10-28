@@ -5,6 +5,10 @@
 - This project was completed as part of the **CLR204 Classification and Regression** coursework. It reproduces and expands upon clinical predictive modeling techniques (referencing study methodology by *Iwendi et al., 2020*) to assess patient mortality risk.
 - By analyzing patient demographics, symptom timelines, geographical data, and health indicators, multiple classification algorithms were trained, tuned, and benchmarked to identify the most accurate model for clinical decision support.
 ---
+## 📄 Acknowledgements & References
+- **Original Dataset & Repository:** Based on the work by Atharva Peshkar [Covid-19-Patient-Health-Analytics GitHub Repository](https://github.com/Atharva-Peshkar/Covid-19-Patient-Health-Analytics).
+- **Research Methodology:** Iwendi, C., Bashir, A. K., Peshkar, A., et al. (2020). *COVID-19 patient health prediction using boosted random forest algorithm*. Frontiers in Public Health, 8, 357.
+---
 ## Dataset source
 ####  The original dataset was taken from: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 ---
