@@ -4,7 +4,7 @@ A machine learning study evaluating and comparing classification models includin
 
 
 ## 📌 Project Overview
-- This project was completed as part of the **CLR204 Classification and Regression** coursework. It reproduces and expands upon clinical predictive modeling techniques (referencing study methodology by *Iwendi et al., 2020*) to assess patient mortality risk.
+- This project was completed as part of the **CLR204 Classification and Regression** coursework (assessment 2). It reproduces and expands upon clinical predictive modeling techniques (referencing study methodology by *Iwendi et al., 2020*) to assess patient mortality risk.
 - By analyzing patient demographics, symptom timelines, geographical data, and health indicators, multiple classification algorithms were trained, tuned, and benchmarked to identify the most accurate model for clinical decision support.
 
 
